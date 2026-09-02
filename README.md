@@ -6,7 +6,7 @@ readme.md
 
 ![GitHub followers](https://img.shields.io/github/followers/Promise-duo?style=for-the-plastic&color=de5576&labelColor=26487a&label=FOLLOWERS)
 <div></div>
-![](https://github.com/user-attachments/assets/ee759a12-d81a-4cdf-9d47-54e8e056e613) 
+![](https://github.com/user-attachments/assets/1068479080376849577) 
 <div>
   
 </div>
